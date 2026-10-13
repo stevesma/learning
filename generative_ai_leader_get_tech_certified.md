@@ -1,6 +1,8 @@
 # Google Cloud: Generative AI Leader — Get Tech Certified
 
 **Exam info:** [Google Cloud Generative AI Leader Certification](https://cloud.google.com/learn/certification/generative-ai-leader)
+**Trainer:** Julien Matthieu Moreau
+**Date:** 13 October 2026
 
 ---
 
@@ -144,8 +146,14 @@ Agent Platform essentially streamlines the entire ML workflow:
 
 **Grounding** - giving the model a source it can go to for verification of its response. RAG is an example of this.
 
+## Google workspace suite
+
+Went through how AI integrates natively with Workspace - mail, docs, slides etc. Fairly obvious examples.
 
 ## Gem
 
 Essentially a Gemini chat agent that has custom instructions for reuse. Name, Description, Instructions, Tools, Knowledge, Defaults.
 
+## NotebookLM
+
+Personalised AI research partner. Deep Research focus. Grounds in specific sources.
