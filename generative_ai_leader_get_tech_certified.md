@@ -8,10 +8,8 @@
 
 Started by explaining what GenAI is as a concept (essentially ML, made available by advances in technology over recent years).
 
-**4 primary use cases** - Create, Summarise, Discover, Automate
-
-**Multimodal** - text and images, text and pdf, etc
-
+- **4 primary use cases** - Create, Summarise, Discover, Automate
+- **Multimodal** - text and images, text and pdf, etc
 - **Traditional models** - trained for specific use cases
 - **Foundational models** - trained on massive amounts of varied data. Adapt to a wide range of downstream tasks.
 
@@ -56,7 +54,7 @@ Started by explaining what GenAI is as a concept (essentially ML, made available
 - **Unsupervised** (unlabelled data - the data contains no inherent 'correct' answer)
 - **Reinforcement Learning** - model learns through interaction and feedback
 
-**Deep Learning** (subset of ML) - A specific way of teaching computers to learn from data by using artificial neural networks. Deep Learning is the engine behind Foundational generative models.
+- **Deep Learning** (subset of ML) - A specific way of teaching computers to learn from data by using artificial neural networks. Deep Learning is the engine behind Foundational generative models.
 
 ## Making Data Accessible for AI
 
@@ -134,14 +132,20 @@ Agent Platform essentially streamlines the entire ML workflow:
 ## Prompting
 
 **Prompting techniques:**
-- zero, one and few shot prompting - essentially giving no, one or several examples to learn from
-- providing a persona or role for the agent to impersonate
-- prompt chaining - each response builds upon the previous one
+- Zero, one and few shot prompting - essentially giving no, one or several examples to learn from
+- Providing a persona or role for the agent to impersonate
+- Prompt chaining - each response builds upon the previous one
   - Set a goal
   - Start the chain
   - Build the chain
   - Observe and analyse
 
-Reusable prompt libraries are useful
+- Reusable prompt libraries are useful
 
 **Grounding** - giving the model a source it can go to for verification of its response. RAG is an example of this.
+
+
+## Gem
+
+Essentially a Gemini chat agent that has custom instructions for reuse. Name, Description, Instructions, Tools, Knowledge, Defaults.
+
