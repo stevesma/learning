@@ -4,7 +4,7 @@
 
 ---
 
-Started by explain what GenAI is as a concept (essentially ML, made available by advances in technology over recent years).
+Started by explaining what GenAI is as a concept (essentially ML, made available by advances in technology over recent years).
 
 **4 primary use cases** - Create, Summarise, Discover, Automate
 
@@ -110,7 +110,7 @@ Started by explain what GenAI is as a concept (essentially ML, made available by
 - Models
 - Infrastructure
 
-GenAI Agent is an application that observes the world and takes actions based on what it sees based on tools it has at it's disposal.
+GenAI Agent is an application that observes the world and takes actions based on what it sees based on tools it has at its disposal.
 
 **Capabilities of AI Agents:**
 - Understand and respond to natural language
@@ -142,4 +142,4 @@ Agent Platform essentially streamlines the entire ML workflow:
 
 Reusable prompt libraries are useful
 
-**Grounding** - giving the model a source it can go to for verification of it's response. RAG is an example of this.
+**Grounding** - giving the model a source it can go to for verification of its response. RAG is an example of this.
