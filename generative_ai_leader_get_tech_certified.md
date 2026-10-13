@@ -64,7 +64,7 @@ Started by explaining what GenAI is as a concept (essentially ML, made available
   - Pub/Sub (real time), Cloud Storage (unstructured), SQL and Spanner (structured)
 - Prepare it (Big Query)
 - Train your model (VertexAI)
-- Deploy and predict (VertexAI now called Agent Platform)
+- Deploy and predict (VertexAI - now has Agent Builder / Agent Garden layered on top as part of Google's agent platform direction, but Vertex AI still exists)
 - Manage your model (Versioning, performance, drift etc)
 
 ## Foundation Models
@@ -84,7 +84,7 @@ Started by explaining what GenAI is as a concept (essentially ML, made available
 - Ease of Integration
 
 **Google Models:**
-- Gemini - multimodal, closed code model
+- Gemini - multimodal, closed source (proprietary)
 - Gemma - local deployments, open source and customisable
 - Imagen - high quality images from text descriptions
 - Veo - video content based on text descriptions
