@@ -157,3 +157,41 @@ Essentially a Gemini chat agent that has custom instructions for reuse. Name, De
 ## NotebookLM
 
 Personalised AI research partner. Deep Research focus. Grounds in specific sources.
+
+## Gemini for Google Cloud
+
+Essentially Gemini integrated into the Google Cloud suite:
+- Gemini in Cloud Assist
+- Gemini in Big Query
+- Gemini in Code Assist
+- Gemini in Colab Enterprise
+- Gemini in Databases
+- Gemini in Looker
+- Gemini in Security
+
+## Components of a Generative AI Agent
+
+- Foundational model
+- Tools
+- Reasoning loop
+
+## Sampling parameters and settings
+
+- Token count
+- Temperature - creativity of the model - higher temperature, more creative but more unpredictable. Lower temp, more deterministic.
+- Top K - lets the model choose randomly from the top 'k' of words in terms of possibilities (this is less common in modern models)
+- Top P (nucleus sampling) - The cumulative probability threshold that defines the pool of candidate tokens sampled during text generation. A higher value increases diversity; a lower value keeps output more focused and predictable.
+- Safety settings - allows you to filter out things you don't want to expose
+- Output length - max length of the generated text
+
+## ReAct
+
+- Reason and Act - Think, Act, Observe, Respond
+- Can have multiple Think Act Observe loops before a Respond happens
+- Claude Code's tool-use loop (read, edit, bash, verify) is a direct implementation of this.
+
+## Exam
+
+- 90 minutes, 50-60 questions, multiple choice. Can mark questions to review later.
+- Tip: go quick through the lot, then revisit where unsure. Sometimes the later questions trigger thoughts about the answer to priors.
+- No incorrect penalty - you just don't get the point. Thus - answer all questions ;)
