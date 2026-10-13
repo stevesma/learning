@@ -4,6 +4,8 @@
 
 ---
 
+## Overview
+
 Started by explaining what GenAI is as a concept (essentially ML, made available by advances in technology over recent years).
 
 **4 primary use cases** - Create, Summarise, Discover, Automate
@@ -54,6 +56,8 @@ Started by explaining what GenAI is as a concept (essentially ML, made available
 - **Unsupervised** (unlabelled data - the data contains no inherent 'correct' answer)
 - **Reinforcement Learning** - model learns through interaction and feedback
 
+**Deep Learning** (subset of ML) - A specific way of teaching computers to learn from data by using artificial neural networks. Deep Learning is the engine behind Foundational generative models.
+
 ## Making Data Accessible for AI
 
 - Gather data
@@ -62,8 +66,6 @@ Started by explaining what GenAI is as a concept (essentially ML, made available
 - Train your model (VertexAI)
 - Deploy and predict (VertexAI now called Agent Platform)
 - Manage your model (Versioning, performance, drift etc)
-
-**Deep Learning** (subset of ML) - A specific way of teaching computers to learn from data by using artificial neural networks. Deep Learning is the engine behind Foundational generative models.
 
 ## Foundation Models
 
@@ -75,7 +77,7 @@ Started by explaining what GenAI is as a concept (essentially ML, made available
 - Modality
 - Context Window
 - Security
-- Availability and resiliability
+- Availability and resilience
 - Cost
 - Performance
 - Fine-tuning and customisation
@@ -117,7 +119,7 @@ GenAI Agent is an application that observes the world and takes actions based on
 - Automate complex tasks
 - Personalisation
 
-Conversational vs workflow agents
+**Conversational vs Workflow Agents**
 
 Agent Platform essentially streamlines the entire ML workflow:
 - Infrastructure, models, build/deploy/manage
